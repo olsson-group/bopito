@@ -1,0 +1,11 @@
+storage/
+wandb/
+artifacts/
+experiments/
+lightning_logs/
+build/
+bopito.egg-info/
+bopito/__pycache__/
+bopito/data/__pycache__/
+bopito/models/__pycache__/
+bopito/utils/__pycache__/
